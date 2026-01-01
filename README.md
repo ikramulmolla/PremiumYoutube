@@ -20,7 +20,7 @@
 The goal is to provide a premium-like YouTube experience without ads and with background playback.  
 This project also includes **YouTube Music** support integrated in a single app.
 
-> 🛠 Modified & maintained by **WebXploit Team**  
+> 🛠 Modified & maintained by **Firewall Security Team**  
 > 🔗 Credits to original source: https://github.com/nonbili/NouTube
 
 ---
