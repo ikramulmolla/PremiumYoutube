@@ -34,7 +34,7 @@ This project also includes **YouTube Music** support integrated in a single app.
 | 🎵 YouTube Music Supported | ✔ Included |
 | 🎨 Rebranded UI/Icon/Splash | ✔ Customized |
 | 📱 Smooth Performance | ✔ Optimized |
-
+**No login required — use freely without signing in**
 ---
 
 ## 📥 Download
