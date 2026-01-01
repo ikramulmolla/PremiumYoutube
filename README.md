@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Premium YouTube Banner" width="90%" />
+  <img src="images/banner.png" alt="Premium YouTube Banner" width="70%" />
 </p>
 
 <h1 align="center">Premium YouTube</h1>
@@ -54,9 +54,13 @@ OR click below (when release uploaded):
 
 ---
 
-## 🖼 Screenshots
+## 📸 Screenshots
 
-Create a folder:
+<p align="center">
+  <img src="images/screenshot/ss1.jpg" width="30%" alt="Screenshot 1"/>
+  <img src="images/screenshot/ss2.jpg" width="30%" alt="Screenshot 2"/>
+</p>
+
 
 ### ⚠ Legal Notice
 - This repository is for educational and personal research purposes only.
