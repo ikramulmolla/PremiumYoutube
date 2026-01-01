@@ -57,8 +57,8 @@ OR click below (when release uploaded):
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/screenshot/ss1.jpg" width="30%" alt="Screenshot 1"/>
-  <img src="images/screenshot/ss2.jpg" width="30%" alt="Screenshot 2"/>
+  <img src="images/screenshots/ss1.jpg" width="30%" alt="Screenshot 1"/>
+  <img src="images/screenshots/ss2.jpg" width="30%" alt="Screenshot 2"/>
 </p>
 
 
