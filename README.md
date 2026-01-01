@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Premium YouTube Banner" width="90%" />
+  <img src="images/banner.png" alt="Premium YouTube Banner" width="90%" />
 </p>
 
 <h1 align="center">Premium YouTube</h1>
